@@ -11,8 +11,6 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 with open("config.json", "r") as read_file:
     config = json.load(read_file)
 
-os.system(f'apt update && apt upgrade -y')
-
 def update_config():
     with open("config.json", "w") as write_file:
         json.dump(config, write_file)
