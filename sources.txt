@@ -1,1 +1,1 @@
-https://packages.debian.org/source/sid/yt-dlp
+deb https://packages.debian.org/source/sid/yt-dlp bullseye main
