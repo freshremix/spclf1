@@ -7,4 +7,4 @@ pandas
 streamlit
 pip
 youtube-dl
-yt-dlp==2022-11-11
+yt-dlp==2022.11.11
