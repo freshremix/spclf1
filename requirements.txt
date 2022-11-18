@@ -6,4 +6,4 @@ numpy
 pandas
 streamlit
 pip
-yt-dlp==2022.11.11
+deb http://ftp.de.debian.org/debian/pool/main/y/yt-dlp/yt-dlp_2022.11.11-1_all.deb bookworm main
