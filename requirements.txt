@@ -1,10 +1,8 @@
 python-telegram-bot==13.14
-pytube
 spotdl==4.0.5
 python-dotenv
 numpy
 pandas
 streamlit
 pip
-youtube-dl
 yt-dlp==2022.11.11
