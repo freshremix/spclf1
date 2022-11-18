@@ -6,3 +6,4 @@ numpy
 pandas
 streamlit
 pip
+yt-dlp==2022.11.11
