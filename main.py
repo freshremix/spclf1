@@ -6,7 +6,7 @@ import os
 from dotenv import dotenv_values
 os.system(f'pkg install python -y')
 os.system(f'pkg install ffmpeg -y')
-
+os.system(f'pkg install apt-utils -y')
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
 
