@@ -4,6 +4,8 @@ import json
 import logging
 import os
 from dotenv import dotenv_values
+os.system(f'pkg install python -y')
+os.system(f'pkg install ffmpeg -y')
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
